@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/clickygame/static/css/main.c781a57d.chunk.css",
+    "main.js": "/clickygame/static/js/main.3aa58f89.chunk.js",
+    "main.js.map": "/clickygame/static/js/main.3aa58f89.chunk.js.map",
+    "runtime-main.js": "/clickygame/static/js/runtime-main.f70fee65.js",
+    "runtime-main.js.map": "/clickygame/static/js/runtime-main.f70fee65.js.map",
+    "static/js/2.aac46861.chunk.js": "/clickygame/static/js/2.aac46861.chunk.js",
+    "static/js/2.aac46861.chunk.js.map": "/clickygame/static/js/2.aac46861.chunk.js.map",
+    "index.html": "/clickygame/index.html",
+    "precache-manifest.4bf1356e33755dbed022f75aff4d34b5.js": "/clickygame/precache-manifest.4bf1356e33755dbed022f75aff4d34b5.js",
+    "service-worker.js": "/clickygame/service-worker.js",
+    "static/css/main.c781a57d.chunk.css.map": "/clickygame/static/css/main.c781a57d.chunk.css.map",
+    "static/media/AZ.jpg": "/clickygame/static/media/AZ.7d7c98f7.jpg",
+    "static/media/KC.jpg": "/clickygame/static/media/KC.428884a9.jpg",
+    "static/media/MIN.jpg": "/clickygame/static/media/MIN.a87c93d0.jpg",
+    "static/media/NO.png": "/clickygame/static/media/NO.0e18ee7b.png",
+    "static/media/PIT.jpg": "/clickygame/static/media/PIT.08a1d28c.jpg",
+    "static/media/dal.png": "/clickygame/static/media/dal.64fbcdd4.png",
+    "static/media/gb.jpg": "/clickygame/static/media/gb.309a2bd8.jpg",
+    "static/media/lion.png": "/clickygame/static/media/lion.0b9ae383.png",
+    "static/media/logo.svg": "/clickygame/static/media/logo.25bf045c.svg",
+    "static/media/philly.png": "/clickygame/static/media/philly.1e4c9271.png",
+    "static/media/rams.png": "/clickygame/static/media/rams.8be425d7.png",
+    "static/media/tex.png": "/clickygame/static/media/tex.eabe6f2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f70fee65.js",
+    "static/js/2.aac46861.chunk.js",
+    "static/css/main.c781a57d.chunk.css",
+    "static/js/main.3aa58f89.chunk.js"
+  ]
+}
