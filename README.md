@@ -3,6 +3,3 @@ This is an NFL click card game. Click an NFL logo to begin. If you click a logo 
 
 # Technologies
 React, Bootstrap, CSS
-
-
-test
